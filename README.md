@@ -1,3 +1,4 @@
+```io
 #define USE_ARDUINO_INTERRUPTS true
 #include <PulseSensorPlayground.h>
 #include <LiquidCrystal_I2C.h>
@@ -55,3 +56,4 @@ void loop()
   // Add a small delay to reduce CPU usage
   delay(20);
 }
+```
